@@ -1,3 +1,3 @@
  hi this is my new text file
-
+so here's another line
 editing my file to see how that works
